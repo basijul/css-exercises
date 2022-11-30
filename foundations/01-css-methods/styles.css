@@ -5,10 +5,10 @@ body {
 }
 
 div {
-    color: blue;
-    font-size: 50px;
+    color: white;
+    background-color: red;
+    font-family: Ubuntu;
     font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
-    margin: auto;
+    font-size: 50px;
     text-align: center;
 }
